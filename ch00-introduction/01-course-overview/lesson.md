@@ -26,7 +26,7 @@ The course ends with an appendix of shortcuts and commands.
 
 - A computer running Windows 10 or Windows 11.
 - Visual Studio. The setup script checks for it and installs Visual Studio Community with the .NET desktop development workload if it is missing. Chapter 1 explains what that workload is and how to add it by hand.
-- A Microsoft account, to sign in to Visual Studio. If you do not have one, Chapter 2 walks you through creating it. It is free, and it is separate from your GitHub account. Visual Studio asks for it when you first launch. It is the account you sign in to Visual Studio with, and it is not the same as the GitHub account that holds your practice repository.
+- A Microsoft account, which Visual Studio offers to sign you in with on its first launch. You can skip that prompt, and Chapter 2 walks you through creating and signing in to it. It is separate from your GitHub account.
 - A personal GitHub account for the practice repository. If you do not have one, Chapter 2 walks you through creating it, and it is free. The course does not use company GitHub Enterprise accounts, because they cannot create the practice repository.
 - Basic comfort with the Windows command line. You should know how to open a terminal and type a command. Nothing later needs more than that.
 - Patience with the practice repository. It is yours to break, and you will break it on purpose more than once.

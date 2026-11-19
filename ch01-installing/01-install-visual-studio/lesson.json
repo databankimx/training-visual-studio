@@ -1,0 +1,4 @@
+{
+  "title": "Installing Visual Studio",
+  "objective": "Install Visual Studio Community with the .NET desktop development workload, either with the setup script or by hand, and check the version."
+}
