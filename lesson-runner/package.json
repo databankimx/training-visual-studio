@@ -1,0 +1,22 @@
+{
+  "name": "training-vs-code-runner",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lesson runner for the Working With Visual Studio tutorial: rendered lessons, quizzes, spoilers, and examples",
+  "main": "main.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test test/catalog.test.js test/markdown.test.js test/state.test.js test/window-state.test.js test/highlight.test.js test/shadow.test.js test/parts.test.js test/images.test.js test/readonly.test.js test/image-size.test.js test/checklist.test.js test/keycaps.test.js test/documents.test.js"
+  },
+  "dependencies": {
+    "highlight.js": "^11.10.0",
+    "markdown-it": "^15.0.3"
+  },
+  "devDependencies": {
+    "electron": "45.2.3"
+  }
+}

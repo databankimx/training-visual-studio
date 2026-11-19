@@ -1,0 +1,34 @@
+{
+  "parts": [
+    {
+      "title": "Part I - Getting Around",
+      "chapters": [
+        "ch00-introduction"
+      ]
+    },
+    {
+      "title": "Part II - Editing C#",
+      "chapters": []
+    },
+    {
+      "title": "Part III - Building, Running, and Testing",
+      "chapters": []
+    },
+    {
+      "title": "Part IV - Source Control",
+      "chapters": []
+    },
+    {
+      "title": "Part V - Copilot and Extensions",
+      "chapters": []
+    },
+    {
+      "title": "Part VI - Working Faster",
+      "chapters": []
+    },
+    {
+      "title": "Part VII - Putting It Together",
+      "chapters": []
+    }
+  ]
+}
