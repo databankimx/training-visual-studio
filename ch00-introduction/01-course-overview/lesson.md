@@ -61,7 +61,7 @@ The **Solution Explorer** is the tree on the right. It lists the solution, and u
 
 The **editor** is the large space in the middle, where your files open. Each file gets a tab across the top, and you can split the editor to see two files side by side.
 
-The **panels** sit below the editor. The Error List shows the errors and warnings from your last build. The Output window shows what the build and the tools are saying, and it has a drop-down that picks which tool's output you are looking at. Test Explorer, which you will meet in Part III, lists your tests and lets you run them. Panels are windows like any other, so you can move, pin, or close them.
+The **panels** sit below the editor. The Error List shows the errors and warnings from your last build. Its tab only appears after the first error or warning is caught, so do not worry if you do not see it at first. The Output window shows what the build and the tools are saying, and it has a drop-down that picks which tool's output you are looking at. Test Explorer, which you will meet in Part III, lists your tests and lets you run them. Panels are windows like any other, so you can move, pin, or close them.
 
 The **status bar** is the thin strip at the very bottom. It shows the branch you are on, the number of errors and warnings, the project, and the line and column of your cursor. Click an item in it and you usually get a menu for changing that thing.
 
@@ -77,9 +77,9 @@ The full-window picture below shows where each part sits, with the names the les
 
 *Figure 0.2 - Status bar close-up*
 
-![Figure 0.3 - Output panel and editor status line](images/ch00-output-and-error-list.png)
+![Figure 0.3 - Output panel and panel tabs](images/ch00-output-and-error-list.png)
 
-*Figure 0.3 - Output panel and editor status line*
+*Figure 0.3 - Output panel and panel tabs*
 
 ## Command Search in one sentence
 
