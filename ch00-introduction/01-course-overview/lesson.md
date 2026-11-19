@@ -1,6 +1,6 @@
 # Course overview
 
-Visual Studio is Microsoft's full-featured IDE, the integrated development environment where you write, build, run, debug, test, and commit code. This course uses Visual Studio on Windows, and it uses the Community edition, which is free for individual developers, students, and open-source work. You will write C# in it, and you will work in a solution that holds one or more projects, which is how Visual Studio keeps a program's files together.
+Visual Studio is Microsoft's full-featured IDE, the integrated development environment where you write, build, run, debug, test, and commit code. This course uses Visual Studio on Windows, and it uses the Community edition. Community is free, but it is licensed for learning and a few other uses, and the next lesson, Licensing and work use, explains the limits before you go further. You will write C# in it, and you will work in a solution that holds one or more projects, which is how Visual Studio keeps a program's files together.
 
 If you have used a text editor and a command line before, Visual Studio will feel like a lot of window at first. That is normal. Most of the window is there for a reason, and this course shows you what each part is for before it asks you to use it.
 
@@ -26,6 +26,7 @@ The course ends with an appendix of shortcuts and commands.
 
 - A computer running Windows 10 or Windows 11.
 - Visual Studio. The setup script checks for it and installs Visual Studio Community with the .NET desktop development workload if it is missing. Chapter 1 explains what that workload is and how to add it by hand.
+- A Microsoft account, to sign in to Visual Studio. If you do not have one, Chapter 2 walks you through creating it. It is free, and it is separate from your GitHub account. Visual Studio asks for it when you first launch. It is the account you sign in to Visual Studio with, and it is not the same as the GitHub account that holds your practice repository.
 - A personal GitHub account for the practice repository. If you do not have one, Chapter 2 walks you through creating it, and it is free. The course does not use company GitHub Enterprise accounts, because they cannot create the practice repository.
 - Basic comfort with the Windows command line. You should know how to open a terminal and type a command. Nothing later needs more than that.
 - Patience with the practice repository. It is yours to break, and you will break it on purpose more than once.
@@ -66,15 +67,19 @@ The **status bar** is the thin strip at the very bottom. It shows the branch you
 
 The **Command Search** box sits at the top of the window. Press {{Ctrl+Q}} and it opens with the cursor in it. Type a few letters of a command or a setting and press Enter. You will use it constantly, so it is worth learning now.
 
-The full-window picture below shows where each part sits, with the names the lessons use. The status bar and the panel tabs are hard to read at that size, so the close-up under it shows them larger. Use the close-up to check your own window against the course when a lesson mentions a panel tab or a status bar item.
+The full-window picture below shows where each part sits, with the names the lessons use. The status bar and the panel are small at that size, so the two close-ups under it show them larger. Use them to check your own window against the course when a lesson mentions a status bar item or a panel.
 
 ![Figure 0.1 - Visual Studio Window Tour](images/ch00-window-tour.png)
 
 *Figure 0.1 - Visual Studio Window Tour*
 
-![Figure 0.2 - Status bar and panel close-up](images/ch00-panel-and-status-bar.png)
+![Figure 0.2 - Status bar close-up](images/ch00-status-bar.png)
 
-*Figure 0.2 - Status bar and panel close-up*
+*Figure 0.2 - Status bar close-up*
+
+![Figure 0.3 - Output panel and editor status line](images/ch00-output-and-error-list.png)
+
+*Figure 0.3 - Output panel and editor status line*
 
 ## Command Search in one sentence
 
