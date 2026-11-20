@@ -1,0 +1,4 @@
+{
+  "title": "Locals, Watch, and Immediate windows",
+  "objective": "Read variables in the Locals window, watch an expression with the Watch window, and evaluate code in the Immediate window."
+}

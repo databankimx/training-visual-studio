@@ -1,0 +1,4 @@
+{
+  "title": "Reading a failure",
+  "objective": "Read the failure message for a test, and decide whether the code or the test is wrong."
+}

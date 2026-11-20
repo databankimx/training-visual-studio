@@ -1,0 +1,4 @@
+{
+  "title": "Homework: add a boundary test",
+  "objective": "Fix a wrong expected value, add a boundary test, and show that the test catches a bug."
+}

@@ -22,7 +22,9 @@
     {
       "title": "Part III - Building, Running, and Testing",
       "chapters": [
-        "ch09-building-error-list"
+        "ch09-building-error-list",
+        "ch10-running-debugging",
+        "ch11-unit-tests"
       ]
     },
     {
