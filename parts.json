@@ -13,7 +13,9 @@
     {
       "title": "Part II - Editing C#",
       "chapters": [
-        "ch05-typing-selecting-moving"
+        "ch05-typing-selecting-moving",
+        "ch06-intellisense-quick-actions",
+        "ch07-navigating-code"
       ]
     },
     {

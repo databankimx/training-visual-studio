@@ -1,0 +1,4 @@
+{
+  "title": "Homework: fix two errors with Quick Actions",
+  "objective": "Fix a missing using directive and a type mismatch with Quick Actions, then check the build."
+}

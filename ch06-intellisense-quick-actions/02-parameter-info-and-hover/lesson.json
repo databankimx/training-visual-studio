@@ -1,0 +1,4 @@
+{
+  "title": "Parameter info and hover",
+  "objective": "Read the parameters a method expects with parameter info, and read a type or signature with hover."
+}
