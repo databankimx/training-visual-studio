@@ -26,3 +26,13 @@ Which workload does this course need?
 ○ Azure development
 → This course does not use Azure.
 ```
+
+```quiz
+Which key combination opens Command Search?
+○ Ctrl+T
+→ Ctrl+T opens Go to All, which finds files by name.
+◉ Ctrl+Q
+→ That is Command Search. Type a command or setting name and pick it from the list.
+○ Ctrl+Shift+B
+→ That builds the solution. Command Search is Ctrl+Q.
+```

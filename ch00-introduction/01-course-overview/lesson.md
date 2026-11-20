@@ -6,7 +6,7 @@ If you have used a text editor and a command line before, Visual Studio will fee
 
 This course is a guided tour, not a reference manual. It takes you from the first launch to the work a developer does every day. You will open a solution, edit code with confidence, build and run it, debug it, run its tests in Test Explorer, carry a change through commit, push, and pull request, and use GitHub Copilot to help you write code and check what it writes.
 
-> **Not a tip, a warning:** the tour is long on purpose, and you do not need to finish it in one sitting. Each chapter stands on its own, and the runner remembers the last lesson you opened, so you can pick up where you left off.
+> **Take your time:** the tour is long, and you do not need to finish it in one sitting. Each chapter stands on its own, and the runner remembers the last lesson you opened, so you can pick up where you left off.
 
 ## What the course covers
 
@@ -31,7 +31,7 @@ The course ends with an appendix of shortcuts and commands.
 - Basic comfort with the Windows command line. You should know how to open a terminal and type a command. Nothing later needs more than that.
 - Patience with the practice repository. It is yours to break, and you will break it on purpose more than once.
 
-> **Copilot and your account:** the chapters on GitHub Copilot use the free tier for practice. The free tier of GitHub Copilot is permitted for learning, and this course uses it for that purpose. Use it only with the sample code in this course, and never for DataBank work. Work at DataBank happens only through company-provided accounts, under the AI Acceptable Use Policy. Each Copilot chapter repeats this, because it matters every time.
+> **Copilot and your account:** the chapters on GitHub Copilot use the free tier for practice. The free tier of GitHub Copilot is permitted for learning, and this course uses it for that purpose. Use it only with the sample code in this course, and never for DataBank work. Work at DataBank happens only through company-provided accounts, under the AI Acceptable Use Policy.
 
 ## A tour of the window
 

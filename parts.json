@@ -5,12 +5,16 @@
       "chapters": [
         "ch00-introduction",
         "ch01-installing",
-        "ch02-accounts"
+        "ch02-accounts",
+        "ch03-opening-solutions",
+        "ch04-windows-and-layout"
       ]
     },
     {
       "title": "Part II - Editing C#",
-      "chapters": []
+      "chapters": [
+        "ch05-typing-selecting-moving"
+      ]
     },
     {
       "title": "Part III - Building, Running, and Testing",
