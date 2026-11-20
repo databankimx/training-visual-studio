@@ -30,7 +30,10 @@
     },
     {
       "title": "Part IV - Source Control",
-      "chapters": []
+      "chapters": [
+        "ch13-git-basics",
+        "ch14-branches-stashing"
+      ]
     },
     {
       "title": "Part V - Copilot and Extensions",
