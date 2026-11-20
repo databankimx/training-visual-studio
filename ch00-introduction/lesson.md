@@ -6,4 +6,10 @@ This course assumes you already know the fundamentals of C#: variables and types
 
 Chapter 0 is the orientation. Its two lessons explain how the course is laid out, what you need before you start, and which uses of Visual Studio Community are allowed. The first also introduces the names of the parts of the window that every later lesson uses. The chapters after it take you through installing, your accounts, opening solutions, and then each feature in turn.
 
+## Using this tutorial
+
+To get the most out of this guide, don't read these lessons like a book of theory. Follow along, and practice each item as you go. The lessons are built to engage your mind and your hands, so the editor feels familiar by the time you finish.
+
+---
+
 Chapter 0 has two lessons. Course overview explains how the course is laid out and what you need. Licensing and work use explains which uses of Visual Studio Community are allowed, and what that means for your work. Read both before you move on to Chapter 1.

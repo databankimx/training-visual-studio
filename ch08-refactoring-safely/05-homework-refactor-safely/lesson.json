@@ -1,0 +1,4 @@
+{
+  "title": "Homework: rename, extract, and tidy",
+  "objective": "Rename a method used in three places, pull a repeated call into a local variable, and check the build."
+}

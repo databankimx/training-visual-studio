@@ -1,0 +1,4 @@
+{
+  "title": "Reading a list of build errors",
+  "objective": "Read build errors from the bottom of a cascade up, and fix the first real error before the others."
+}

@@ -15,12 +15,15 @@
       "chapters": [
         "ch05-typing-selecting-moving",
         "ch06-intellisense-quick-actions",
-        "ch07-navigating-code"
+        "ch07-navigating-code",
+        "ch08-refactoring-safely"
       ]
     },
     {
       "title": "Part III - Building, Running, and Testing",
-      "chapters": []
+      "chapters": [
+        "ch09-building-error-list"
+      ]
     },
     {
       "title": "Part IV - Source Control",
