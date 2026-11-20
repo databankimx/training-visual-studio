@@ -12,10 +12,10 @@ These keys cover most of the editing you will do in this course:
 Which key combination formats the whole file?
 ○ Ctrl+Shift+B
 → Ctrl+Shift+B builds the solution. It does not change the layout of the code.
-◉ Ctrl+K, then Ctrl+D
-→ Yes. Press the two keys one after the other to format the file.
 ○ Ctrl+F
 → Ctrl+F opens the Find box. Formatting is Ctrl+K, then Ctrl+D.
+◉ Ctrl+K, then Ctrl+D
+→ Yes. Press the two keys one after the other to format the file.
 ```
 
 ```quiz
@@ -32,8 +32,8 @@ Which keys move the current line up one line?
 What does Alt and a mouse drag select?
 ○ One word
 → To select one word, put the cursor on it and press Ctrl+W.
-◉ A rectangular block of text across several lines
-→ Yes. A block selection lets you edit the same column on several lines at once.
 ○ The whole file
 → To format or select the whole file, use the Format Document shortcut or Select All.
+◉ A rectangular block of text across several lines
+→ Yes. A block selection lets you edit the same column on several lines at once.
 ```

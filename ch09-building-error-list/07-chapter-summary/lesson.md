@@ -19,12 +19,12 @@ Which key combination builds the solution?
 
 ```quiz
 Which configuration is the default, and keeps information for the debugger?
-◉ Debug
-→ Yes. Debug keeps extra information, so you can pause the program and read its values.
 ○ Release
 → Release optimizes the code, and it leaves out the information the debugger uses.
 ○ Output
 → Output is a window that shows the build log. It is not a configuration.
+◉ Debug
+→ Yes. Debug keeps extra information, so you can pause the program and read its values.
 ```
 
 ```quiz

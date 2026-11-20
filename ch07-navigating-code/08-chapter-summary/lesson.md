@@ -12,18 +12,18 @@ These keys cover most of the navigation you will do in this course:
 Which key moves the cursor from a method call to its declaration?
 ○ Shift+F12
 → Shift+F12 lists every use of the name. It does not move you to the declaration.
-◉ F12
-→ Yes. Go to Definition opens the file that declares the method, with the cursor on it.
 ○ Alt+F12
 → Alt+F12 shows the declaration in a box, in the same file. F12 opens the file itself.
+◉ F12
+→ Yes. Go to Definition opens the file that declares the method, with the cursor on it.
 ```
 
 ```quiz
 What does Find All References show?
-○ Only the declaration of a name
-→ Find All References lists the uses of the name, so the list is longer than the declaration alone.
 ◉ Every place the name is used in the solution
 → Yes. Each result shows the file and the line, and you can open any of them.
+○ Only the declaration of a name
+→ Find All References lists the uses of the name, so the list is longer than the declaration alone.
 ○ The version history of a file
 → Version history comes from Git, which the course covers later. Find All References lists the uses of a name.
 ```

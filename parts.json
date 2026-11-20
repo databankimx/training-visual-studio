@@ -24,7 +24,8 @@
       "chapters": [
         "ch09-building-error-list",
         "ch10-running-debugging",
-        "ch11-unit-tests"
+        "ch11-unit-tests",
+        "ch12-debugging-failing-test"
       ]
     },
     {

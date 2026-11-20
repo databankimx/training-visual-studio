@@ -20,18 +20,18 @@ Why does the course use a personal GitHub account for the practice repository?
 Which address should you use with git config user.email?
 ○ Your GitHub username
 → A username is not an email address, and Git will not accept it as one.
-○ Your work email address
-→ Your work address would be published with each commit you push.
 ◉ The noreply address that GitHub shows in your Emails settings
 → That address keeps your real email out of every commit.
+○ Your work email address
+→ Your work address would be published with each commit you push.
 ```
 
 ```quiz
 Which account signs you in to Visual Studio?
-◉ Your Microsoft account
-→ That is the account Visual Studio signs in with.
 ○ Your GitHub account
 → GitHub holds the practice repository and Copilot. Visual Studio signs in with a Microsoft account.
 ○ A company GitHub Enterprise account
 → The course does not use company accounts for practice.
+◉ Your Microsoft account
+→ That is the account Visual Studio signs in with.
 ```

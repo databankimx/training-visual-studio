@@ -19,12 +19,12 @@ At the Copilot prompt on the first launch, which choice does this course want?
 
 ```quiz
 Which workload does this course need?
-◉ .NET desktop development
-→ The practice solution is built with .NET, and this workload installs the tools it needs.
 ○ Game development with Unity
 → This course does not use Unity.
 ○ Azure development
 → This course does not use Azure.
+◉ .NET desktop development
+→ The practice solution is built with .NET, and this workload installs the tools it needs.
 ```
 
 ```quiz

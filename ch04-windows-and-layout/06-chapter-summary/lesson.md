@@ -20,18 +20,18 @@ Which shortcut opens Find in Files, to search every file in the solution?
 What does a pushpin turned sideways on a window's title bar mean?
 ○ The window is floating
 → A floating window is a separate window. The sideways pushpin means something else.
-◉ The window is set to Auto Hide
-→ Yes. The window tucks itself away at the edge, and comes back when you point at its tab.
 ○ The window is closed
 → A closed window does not leave a pushpin on the screen. The sideways pushpin means Auto Hide.
+◉ The window is set to Auto Hide
+→ Yes. The window tucks itself away at the edge, and comes back when you point at its tab.
 ```
 
 ```quiz
 Which menu command puts every window back where it started?
+◉ Window, then Reset Window Layout
+→ That puts each tool window back in its original place.
 ○ File, then Close Solution
 → That closes the solution. It does not move any windows.
 ○ Edit, then Undo
 → Undo reverses a text change. It does not move windows.
-◉ Window, then Reset Window Layout
-→ That puts each tool window back in its original place.
 ```

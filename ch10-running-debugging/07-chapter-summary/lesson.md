@@ -11,18 +11,18 @@ Remember these as you debug:
 Which key starts the program with the debugger attached?
 ○ Ctrl+F5
 → Ctrl+F5 starts the program without the debugger, so breakpoints do not pause it.
-◉ F5
-→ Yes. The program runs until it reaches a breakpoint, or until it finishes.
 ○ F9
 → F9 sets or removes a breakpoint. It does not start the program.
+◉ F5
+→ Yes. The program runs until it reaches a breakpoint, or until it finishes.
 ```
 
 ```quiz
 You are paused on a line that calls a method. Which key moves you into that method?
-○ F10
-→ F10 runs the whole call, and pauses at the next line in the current method.
 ◉ F11
 → Yes. Step Into pauses at the first line of the method being called.
+○ F10
+→ F10 runs the whole call, and pauses at the next line in the current method.
 ○ Shift+F11
 → Shift+F11 leaves the current method, and pauses after the call that brought you into it.
 ```
@@ -31,8 +31,8 @@ You are paused on a line that calls a method. Which key moves you into that meth
 Which window lets you evaluate code while the program is paused?
 ○ Locals
 → The Locals window lists the variables in the current method.
-○ Watch
-→ The Watch window follows the expressions you add. It does not run new code.
 ◉ Immediate
 → Yes. Type an expression in the Immediate window, and press Enter to see its value.
+○ Watch
+→ The Watch window follows the expressions you add. It does not run new code.
 ```

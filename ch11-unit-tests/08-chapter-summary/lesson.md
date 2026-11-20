@@ -12,18 +12,18 @@ Remember these as you work with tests:
 Which attribute marks a method as one test in NUnit?
 ○ [TestFixture]
 → [TestFixture] marks the class that groups the tests. It does not mark one test.
-◉ [Test]
-→ Yes. Each method with [Test] above it runs as one test in Test Explorer.
 ○ [SetUp]
 → [SetUp] runs before each test, but it is not a test itself.
+◉ [Test]
+→ Yes. Each method with [Test] above it runs as one test in Test Explorer.
 ```
 
 ```quiz
 A test fails. Where do you look first to see the expected value and the value the method returned?
-○ The Output window
-→ The Output window shows build and debug messages. It does not show test results.
 ◉ The failure message in the Test Explorer detail pane
 → Yes. The message shows Expected and Was for the failing assertion.
+○ The Output window
+→ The Output window shows build and debug messages. It does not show test results.
 ○ The Breakpoints window
 → The Breakpoints window lists breakpoints, not test results.
 ```
@@ -32,8 +32,8 @@ A test fails. Where do you look first to see the expected value and the value th
 A test passes. Which statement is true?
 ○ The method is correct for every possible input.
 → A passing test only proves the inputs in that test.
-◉ The method returned the expected value for the inputs in that test.
-→ Yes. Other inputs may still expose a bug, so add tests for the edge cases.
 ○ The test cannot fail later.
 → A test can fail later, when the code changes in a way it does not expect.
+◉ The method returned the expected value for the inputs in that test.
+→ Yes. Other inputs may still expose a bug, so add tests for the edge cases.
 ```
