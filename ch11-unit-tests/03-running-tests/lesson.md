@@ -17,5 +17,5 @@ To run every test, click Run All at the top of the window, or press {{Ctrl+R}}, 
 ## Try it
 
 1. Open Test Explorer with {{Ctrl+E}}, then {{T}}, and build the solution with {{Ctrl+Shift+B}}.
-2. Click Run All. Four tests pass, and one fails: Total_OfOneTwoThree_IsSeven. You will read its message in the next lesson.
+2. Click Run All. Four tests pass, and one fails: MinPrice_ReturnsTheSmallest. You will read its message in the next lesson.
 3. Right-click Average_OfTwoAndFour_IsThree, and choose Run. Only that test runs. The others keep their last results.

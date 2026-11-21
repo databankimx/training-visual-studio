@@ -2,7 +2,7 @@
   "name": "Working With Visual Studio",
   "folder": "training-visual-studio",
   "repoUrl": "https://github.com/databankimx/training-visual-studio.git",
-  "branch": "dev",
+  "branch": "main",
   "requirePowerShell7": false,
   "requirements": [
     {

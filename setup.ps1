@@ -42,10 +42,8 @@ param(
 $ErrorActionPreference = "Stop"
 
 # Bootstrap values. They match setup.json, and the script warns if they differ after cloning.
-# TEMPORARY: $BootstrapBranch is "dev" for the clean VM test. Change it back to "main" before the PR merges,
-# and change "branch" in setup.json to "main" at the same time.
 $BootstrapRepoUrl = "https://github.com/databankimx/training-visual-studio.git"
-$BootstrapBranch  = "dev"
+$BootstrapBranch  = "main"
 
 $WingetSuccessCodes = @(0, 3010, -1978335189)
 
