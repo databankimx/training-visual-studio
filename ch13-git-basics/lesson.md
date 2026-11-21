@@ -10,4 +10,4 @@ It also makes teamwork safe. Other developers can see what you changed before it
 
 Good habits start here. Commit small, clear changes, and write messages that a stranger could understand a year from now.
 
-This chapter uses your copy of the practice repository from Chapter 2, on your computer in C:\Development\training-visual-studio-practice. You will make changes, stage them, commit them, and see which branch you are on. A commit stays on your computer until you push it, and Chapter 15 covers pushing.
+This chapter uses your copy of the practice repository from Chapter 2, on your computer, in the folder you chose in Chapter 3. The course uses C:\Development\training-visual-studio-practice in its examples. You will make changes, stage them, commit them, and see which branch you are on. A commit stays on your computer until you push it, and Chapter 15 covers pushing.

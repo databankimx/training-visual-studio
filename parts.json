@@ -34,7 +34,9 @@
         "ch13-git-basics",
         "ch14-branches-stashing",
         "ch15-push-pull-sync",
-        "ch16-merge-conflicts"
+        "ch16-merge-conflicts",
+        "ch17-github-pull-requests",
+        "ch18-history-blame"
       ]
     },
     {

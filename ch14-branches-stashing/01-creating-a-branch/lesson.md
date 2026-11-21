@@ -6,7 +6,7 @@ Click the branch name in the status bar, at the bottom of the window. The branch
 
 *Figure 14.1 - The branch dropdown in the status bar*
 
-Give the branch a name that says what it is for. Use lowercase letters, and join the words with hyphens. A prefix such as feature/ helps you see the kind of work at a glance. For example, feature/document-average describes a change to the Average method. Git does not allow spaces in branch names, so use hyphens instead.
+The course uses feature/document-average in its examples, so you can use the same name. Your own name may differ, and that is fine. Give the branch a name that says what it is for. Use lowercase letters, and join the words with hyphens. A prefix such as feature/ helps you see the kind of work at a glance. For example, feature/document-average describes a change to the Average method. Git does not allow spaces in branch names, so use hyphens instead.
 
 Create the branch. Visual Studio makes the new branch from the commit you are on, and switches to it. The status bar now shows the new name. Every commit you make from here goes onto this branch, and main keeps the commits it already had.
 

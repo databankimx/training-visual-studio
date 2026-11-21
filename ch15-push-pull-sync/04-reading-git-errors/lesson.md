@@ -8,7 +8,7 @@ Figure 15.3 shows a failed push. The dialog names the problem: your local branch
 
 *Figure 15.3 - The push failed dialog*
 
-Figure 15.4 shows the Output window with Source Control - Git chosen in its box. It lists the steps of the operation: the commit, then each push attempt. It does not repeat the reason for the failure, so read the dialog for that. Open the Output window when a dialog does not explain enough, or when you want to see exactly which branch Git pushed.
+Figure 15.4 shows the Output window with Source Control - Git chosen in its box. It lists the steps of the operation: the commit, then each push attempt. The branch name in the lines is the one you chose, so yours may differ from the figure. It does not repeat the reason for the failure, so read the dialog for that. Open the Output window when a dialog does not explain enough, or when you want to see exactly which branch Git pushed.
 
 ![Figure 15.4 - The Output window with Source Control - Git chosen](images/ch15-output-push-lines.png "width=75%")
 

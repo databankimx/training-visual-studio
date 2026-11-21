@@ -1,0 +1,4 @@
+{
+  "title": "Blame a line",
+  "objective": "Turn on blame for a file, and find the commit that last changed a line."
+}

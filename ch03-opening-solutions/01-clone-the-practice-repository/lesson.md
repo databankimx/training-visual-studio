@@ -14,7 +14,7 @@ If the start window is not showing, choose File, then Close Solution, and it app
 
 Replace YOUR-USERNAME with your GitHub username. If you named your repository something other than training-visual-studio-practice, change the name in the address to match.
 
-Choose a location for the copy. This course uses C:\Development, so the copy goes in C:\Development\training-visual-studio-practice. Choose Clone, and wait for it to finish.
+Choose a location for the copy. This course uses C:\Development, so the copy goes in C:\Development\training-visual-studio-practice. Your folder may be in a different place, if you chose another location. Where you see this path in the course, use the path on your own computer. Choose Clone, and wait for it to finish.
 
 If Visual Studio asks you to sign in to GitHub, sign in with your personal GitHub account, and allow the access it asks for. Visual Studio remembers the sign-in for the later steps.
 

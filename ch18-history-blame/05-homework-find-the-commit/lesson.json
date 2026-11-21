@@ -1,0 +1,4 @@
+{
+  "title": "Homework: find the commit",
+  "objective": "Use blame and the history view to find the commit that added a line, and explain its message."
+}

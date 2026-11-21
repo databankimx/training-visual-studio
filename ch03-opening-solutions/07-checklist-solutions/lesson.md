@@ -2,7 +2,7 @@
 
 Work through this list before you go on. Each item is something you can see in the Visual Studio window or in a dialog.
 
-- [ ] The practice repository is on your computer, in C:\Development\training-visual-studio-practice.
+- [ ] The practice repository is on your computer, in the folder you chose when you cloned it. The course uses C:\Development\training-visual-studio-practice.
 - [ ] You opened PracticeSolution.sln with File, then Open, then Project/Solution.
 - [ ] The Solution Explorer shows the solution and its three projects: Pricing, Pricing.Tests, and PriceReport.
 - [ ] You can say what a solution is, and what a project is.
