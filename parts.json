@@ -43,7 +43,9 @@
       "title": "Part V - Copilot and Extensions",
       "chapters": [
         "ch19-setting-up-copilot",
-        "ch20-suggestions-and-chat"
+        "ch20-suggestions-and-chat",
+        "ch21-checking-what-copilot-writes",
+        "ch22-extensions-and-licenses"
       ]
     },
     {

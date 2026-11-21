@@ -1,0 +1,4 @@
+{
+  "title": "Homework: find the bug Copilot explains wrongly",
+  "objective": "Ask Copilot to explain a method, find where its explanation is wrong, and fix the method with a test."
+}
