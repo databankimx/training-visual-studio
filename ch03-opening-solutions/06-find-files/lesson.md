@@ -6,11 +6,11 @@ There are two quick ways to find a file in the solution. Go to All finds any fil
 
 Press {{Ctrl+T}}, type part of the file name, and watch the list. Visual Studio narrows it as you type. Use the arrow keys to pick a file, and press {{Enter}} to open it.
 
-Figure 3.4 shows Go to All with a search typed in.
+Figure 3.5 shows Go to All with a search typed in.
 
-![Figure 3.4 - Go to All results for a file name](images/ch03-go-to-all.png "width=75%")
+![Figure 3.5 - Go to All results for a file name](images/ch03-go-to-all.png "width=75%")
 
-*Figure 3.4 - Go to All results for a file name*
+*Figure 3.5 - Go to All results for a file name*
 
 Go to All does not need the Solution Explorer to be open, and it does not need you to know which project the file belongs to. It is the fastest way to reach a file you know the name of.
 

@@ -1,0 +1,4 @@
+{
+  "title": "Sync and the status bar counts",
+  "objective": "Read the ahead and behind counts in the status bar, and use Sync to pull and push together."
+}

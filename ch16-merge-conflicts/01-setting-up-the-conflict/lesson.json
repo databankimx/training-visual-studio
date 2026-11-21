@@ -1,0 +1,4 @@
+{
+  "title": "Setting up the conflict",
+  "objective": "Add a small file to main, so two branches can change the same line."
+}

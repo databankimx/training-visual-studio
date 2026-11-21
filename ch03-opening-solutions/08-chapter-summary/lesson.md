@@ -5,6 +5,8 @@ The practice solution is on your computer and open in Visual Studio. Keep these 
 - Open the solution with File, then Open, then Project/Solution. Open Folder is the alternative for a folder with no solution.
 - A solution holds projects, and the Solution Explorer shows both.
 - Go to All, opened with {{Ctrl+T}}, finds any file by its name.
+- Right-click a project and choose Add to create items. New Item opens the templates, with {{Ctrl+Shift+A}}.
+- A new file in a folder takes its namespace from the project name and the folder path.
 
 ```quiz
 What does a solution contain?

@@ -32,7 +32,9 @@
       "title": "Part IV - Source Control",
       "chapters": [
         "ch13-git-basics",
-        "ch14-branches-stashing"
+        "ch14-branches-stashing",
+        "ch15-push-pull-sync",
+        "ch16-merge-conflicts"
       ]
     },
     {
