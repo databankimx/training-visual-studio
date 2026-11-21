@@ -39,23 +39,23 @@ Before you install anything, it helps to know the names of the parts of the wind
 
 ```mermaid
 flowchart TB
-  MB["Menu bar<br/>File, Edit, View, Project, Build, Debug, Test, Git, Window, Help"]
-  TB["Toolbar<br/>Run, Save, Undo, Redo, and the Git and Search controls"]
+  MB["Menu bar<br/>File, Edit, View, Git, Project, Build, Debug, Test, Tools, Extensions, Window, Help, Search"]
+  TB["Toolbar<br/>Run, Save, Undo, Redo, and the configuration and startup project"]
   MB --> TB
-  TB --> SE
+  TB --> ED
   subgraph Body["Main area"]
     direction LR
-    SE["Solution Explorer<br/>the projects and files in your solution"]
     ED["Editor<br/>your files, in tabs"]
-    SE --> ED
+    SE["Solution Explorer<br/>the projects and files in your solution"]
+    ED --> SE
   end
   ED --- PN["Panels<br/>Error List, Output, Test Explorer"]
   PN --- ST["Status bar<br/>branch, errors, project, line and column"]
 ```
 
-The **menu bar** runs across the top. Nearly every command in the course is on it, and the menus are where to look when you are not sure what a command is called.
+The **menu bar** runs across the top. Nearly every command in the course is on it, and the menus are where to look when you are not sure what a command is called. The Search box at the right end of the menu bar finds any command or setting by name.
 
-The **toolbar** sits under the menu bar. It has the buttons you press most: Start (the green arrow that runs your program), Save, Undo and Redo, and the Git controls.
+The **toolbar** sits under the menu bar. It has the buttons you press most: Start (the green arrow that runs your program), Save, and Undo and Redo. The drop-downs next to them pick the build configuration, such as Debug, and the project that Start runs.
 
 The **Solution Explorer** is the tree on the right. It lists the solution, and under it the projects, and under those the files and folders. Double-click a file and it opens in the editor. You can hide the Solution Explorer from the View menu, and bring it back the same way.
 
@@ -63,7 +63,7 @@ The **editor** is the large space in the middle, where your files open. Each fil
 
 The **panels** sit below the editor. The Error List shows the errors and warnings from your last build. Its tab only appears after the first error or warning is caught, so do not worry if you do not see it at first. The Output window shows what the build and the tools are saying, and it has a drop-down that picks which tool's output you are looking at. Test Explorer, which you will meet in Part III, lists your tests and lets you run them. Panels are windows like any other, so you can move, pin, or close them.
 
-The **status bar** is the thin strip at the very bottom. It shows the branch you are on, the number of errors and warnings, the project, and the line and column of your cursor. Click an item in it and you usually get a menu for changing that thing.
+The **status bar** is the thin strip at the very bottom. It shows the branch you are on, the repository, and what Visual Studio is doing in the background, such as restoring NuGet packages. Click the branch and you get a menu for switching it. The bar under the editor shows the line and column of your cursor, and whether the file has any issues.
 
 The **Command Search** box sits at the top of the window. Press {{Ctrl+Q}} and it opens with the cursor in it. Type a few letters of a command or a setting and press Enter. You will use it constantly, so it is worth learning now.
 
