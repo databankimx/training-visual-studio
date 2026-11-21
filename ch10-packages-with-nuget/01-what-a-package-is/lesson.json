@@ -1,0 +1,4 @@
+{
+  "title": "What a package is",
+  "objective": "Explain a package, its ID, its version, and its PackageReference, and find the project's target framework in Pricing.csproj."
+}

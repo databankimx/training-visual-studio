@@ -1,6 +1,6 @@
 # Your commit address and Git name
 
-Every commit you make records a name and an email address. Git stores them in the commit itself, and they are published with it when you push. You do not want your real email address there, so GitHub gives you a private address to use instead. Visual Studio's Git Changes window uses the same name and address when you commit, so set them here, before Chapter 13.
+Every commit you make records a name and an email address. Git stores them in the commit itself, and they are published with it when you push. You do not want your real email address there, so GitHub gives you a private address to use instead. Visual Studio's Git Changes window uses the same name and address when you commit, so set them here, before Chapter 14.
 
 ## Use GitHub's noreply address
 

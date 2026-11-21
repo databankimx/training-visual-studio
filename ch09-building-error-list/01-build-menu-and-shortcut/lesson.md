@@ -30,4 +30,4 @@ That saving has a risk. If the project you changed is used by another project, a
 
 ## Common mistake
 
-Building only compiles the program. A successful build means the code compiles. To run the program, press {{F5}}, which Chapter 10 covers.
+Building only compiles the program. A successful build means the code compiles. To run the program, press {{F5}}, which Chapter 11 covers.

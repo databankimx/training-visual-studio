@@ -22,6 +22,6 @@ Figure 2.7 shows the form.
 
 Choose Private if you want your practice work out of public view. Private is a good choice for this course.
 
-Your new repository now lives under your account, at an address with your username in it. Chapter 3 opens it in Visual Studio, and Chapter 13 uses it for your first commits.
+Your new repository now lives under your account, at an address with your username in it. Chapter 3 opens it in Visual Studio, and Chapter 14 uses it for your first commits.
 
 > **Do not use a company repository:** the exercises change files, create branches, and sometimes leave them in a mess. Keep them in your personal practice repository, never in a repository your team uses.

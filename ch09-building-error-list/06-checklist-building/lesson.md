@@ -10,6 +10,6 @@ Work through this list before you go on. Each item is something you did on the s
 - [ ] You switched the configuration between Debug and Release, and built each one.
 - [ ] You completed the homework, and deleted BuildPractice.cs afterward.
 
-Chapter 10 covers running and debugging, with F5, breakpoints, and the Locals window.
+Chapter 11 covers running and debugging, with F5, breakpoints, and the Locals window.
 
 ---

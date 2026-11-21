@@ -23,7 +23,7 @@ The output folder includes the target framework, net10.0 here. The folder names 
 
 ## Debug
 
-Debug is the default. It keeps the information the debugger needs, so you can pause the program, step through a line at a time, and read the values of variables. Chapter 10 covers those steps. The trade-off is speed. Debug runs more slowly, because the code is not optimized, and the output is larger.
+Debug is the default. It keeps the information the debugger needs, so you can pause the program, step through a line at a time, and read the values of variables. Chapter 11 covers those steps. The trade-off is speed. Debug runs more slowly, because the code is not optimized, and the output is larger.
 
 ## Release
 

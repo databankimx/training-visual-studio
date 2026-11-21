@@ -23,45 +23,46 @@
       "title": "Part III - Build, Run, and Test",
       "chapters": [
         "ch09-building-error-list",
-        "ch10-running-debugging",
-        "ch11-unit-tests",
-        "ch12-debugging-failing-test"
+        "ch10-packages-with-nuget",
+        "ch11-running-debugging",
+        "ch12-unit-tests",
+        "ch13-debugging-failing-test"
       ]
     },
     {
       "title": "Part IV - Source Control",
       "chapters": [
-        "ch13-git-basics",
-        "ch14-branches-stashing",
-        "ch15-push-pull-sync",
-        "ch16-merge-conflicts",
-        "ch17-github-pull-requests",
-        "ch18-history-blame"
+        "ch14-git-basics",
+        "ch15-branches-stashing",
+        "ch16-push-pull-sync",
+        "ch17-merge-conflicts",
+        "ch18-github-pull-requests",
+        "ch19-history-blame"
       ]
     },
     {
       "title": "Part V - Copilot and Extensions",
       "chapters": [
-        "ch19-setting-up-copilot",
-        "ch20-suggestions-and-chat",
-        "ch21-checking-what-copilot-writes",
-        "ch22-extensions-and-licenses"
+        "ch20-setting-up-copilot",
+        "ch21-suggestions-and-chat",
+        "ch22-checking-what-copilot-writes",
+        "ch23-extensions-and-licenses"
       ]
     },
     {
       "title": "Part VI - Working Faster",
       "chapters": [
-        "ch23-settings-profiles-and-shortcuts",
-        "ch24-snippets-cleanup-and-extras"
+        "ch24-settings-profiles-and-shortcuts",
+        "ch25-snippets-cleanup-and-extras"
       ]
     },
     {
       "title": "Part VII - Putting It Together",
       "chapters": [
-        "ch25-capstone-change-test-review",
-        "ch26-when-things-go-wrong",
-        "ch27-checklist-and-summary",
-        "ch28-appendix-shortcuts-commands-settings"
+        "ch26-capstone-change-test-review",
+        "ch27-when-things-go-wrong",
+        "ch28-checklist-and-summary",
+        "ch29-appendix-shortcuts-commands-settings"
       ]
     }
   ]

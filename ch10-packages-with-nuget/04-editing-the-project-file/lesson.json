@@ -1,0 +1,4 @@
+{
+  "title": "Editing the package reference in the project file",
+  "objective": "Change the Version of a PackageReference in Pricing.csproj by hand, check it on the Installed tab, and put it back."
+}

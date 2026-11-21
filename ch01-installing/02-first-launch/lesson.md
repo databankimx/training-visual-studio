@@ -20,7 +20,7 @@ Next, Visual Studio offers GitHub Copilot Free. Figure 1.3 shows it.
 
 *Figure 1.3 - GitHub Copilot prompt*
 
-Choose Maybe later. Copilot is set up in Chapter 19, after you have your GitHub account.
+Choose Maybe later. Copilot is set up in Chapter 20, after you have your GitHub account.
 
 ## The start window
 

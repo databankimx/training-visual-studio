@@ -10,7 +10,7 @@ You now have Visual Studio installed and open, with the color theme chosen. Keep
 ```quiz
 At the Copilot prompt on the first launch, which choice does this course want?
 ○ Sign up for Copilot Free
-→ Copilot is set up in Chapter 19, after your GitHub account exists.
+→ Copilot is set up in Chapter 20, after your GitHub account exists.
 ◉ Maybe later
 → That is the choice for now. Copilot comes later in the course.
 ○ Sign in with GitHub
