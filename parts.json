@@ -50,7 +50,10 @@
     },
     {
       "title": "Part VI - Working Faster",
-      "chapters": []
+      "chapters": [
+        "ch23-settings-profiles-and-shortcuts",
+        "ch24-snippets-cleanup-and-extras"
+      ]
     },
     {
       "title": "Part VII - Putting It Together",

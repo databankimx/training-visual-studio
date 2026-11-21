@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:">
     <title>Working With Visual Studio</title>
+    <link rel="stylesheet" href="vendor/hljs-visual-studio.css">
     <style>
       :root {
         color-scheme: dark;
@@ -68,16 +69,7 @@
       .nav-group { display: flex; align-items: center; gap: 10px; min-width: 0; }
       .nav-hint { color: var(--muted); font-size: 12px; max-width: 260px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
-      /* Code colors: the same palette as the other runners. The light theme gets its own values. */
-      :root { --tok-keyword: #569cd6; --tok-type: #4ec9b0; --tok-function: #dcdcaa; --tok-variable: #9cdcfe; --tok-string: #ce9178; --tok-number: #b5cea8; --tok-comment: #6a9955; }
-      body.light { --tok-keyword: #0000ff; --tok-type: #267f99; --tok-function: #795e26; --tok-variable: #001080; --tok-string: #a31515; --tok-number: #098658; --tok-comment: #008000; }
-      .hljs-keyword, .hljs-literal, .hljs-built_in, .hljs-meta, .hljs-selector-tag { color: var(--tok-keyword); }
-      .hljs-type, .hljs-title.class_, .hljs-class .hljs-title { color: var(--tok-type); }
-      .hljs-title, .hljs-title.function_ { color: var(--tok-function); }
-      .hljs-string, .hljs-regexp, .hljs-template-variable { color: var(--tok-string); }
-      .hljs-number { color: var(--tok-number); }
-      .hljs-comment, .hljs-quote { color: var(--tok-comment); font-style: italic; }
-      .hljs-variable, .hljs-params, .hljs-property, .hljs-attr { color: var(--tok-variable); }
+      /* Code colors: see vendor/hljs-visual-studio.css. */
 
       /* Lesson text. Code blocks wrap rather than scroll sideways. */
       .lesson { flex: 1; overflow: auto; padding: 14px 24px 24px; line-height: 1.6; font-size: var(--lesson-size); min-height: 0; }
