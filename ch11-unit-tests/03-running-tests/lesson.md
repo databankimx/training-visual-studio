@@ -8,7 +8,7 @@ Before you run anything, build the solution with {{Ctrl+Shift+B}}. The tests run
 
 Figure 11.2 shows the window after a run of all the tests. The bar at the top counts the results. A green check mark means a test passed. A red X means it failed.
 
-![Figure 11.2 - Test Explorer after running all tests](images/ch11-test-explorer.png "width=75%")
+![Figure 11.2 - Test Explorer after running all tests](images/ch11-test-explorer.png "width=50%")
 
 *Figure 11.2 - Test Explorer after running all tests*
 

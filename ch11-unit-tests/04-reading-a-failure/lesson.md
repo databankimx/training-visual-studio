@@ -1,10 +1,10 @@
 # Reading a failure
 
-When a test fails, the most useful information is in its message. Click MinPrice_ReturnsTheSmallest in Test Explorer. The lower pane shows the message, which says the expected value was 1.5, but the method returned 9.
+When a test fails, the most useful information is in its message. Click MinPrice_ReturnsTheSmallest in Test Explorer. The detail pane on the right shows the message, which says the expected value was 1.5, but the method returned 9.
 
 Figure 11.3 shows the message in the detail pane.
 
-![Figure 11.3 - The failure message in the Test Explorer detail pane](images/ch11-failure-message.png "width=75%")
+![Figure 11.3 - The failure message in the Test Explorer detail pane](images/ch11-failure-message.png "width=85%")
 
 *Figure 11.3 - The failure message in the Test Explorer detail pane*
 
