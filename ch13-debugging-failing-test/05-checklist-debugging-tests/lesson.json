@@ -1,0 +1,4 @@
+{
+  "title": "Checklist: debugging a failing test",
+  "objective": "Confirm that you can debug a test, use a breakpoint condition, and decide whether the code or the test is wrong."
+}

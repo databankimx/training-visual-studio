@@ -1,0 +1,4 @@
+{
+  "title": "Reading the conflict markers",
+  "objective": "Read the markers Git writes into a conflicted file, and say which side is which."
+}

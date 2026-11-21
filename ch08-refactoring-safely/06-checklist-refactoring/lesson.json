@@ -1,0 +1,4 @@
+{
+  "title": "Checklist: refactoring safely",
+  "objective": "Confirm you can rename with a preview, extract a method, run Code Cleanup, and build after each change."
+}

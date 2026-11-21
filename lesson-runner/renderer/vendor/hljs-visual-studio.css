@@ -1,0 +1,54 @@
+/*
+ * Syntax colors for the lesson text, taken from highlight.js 11 (BSD-3-Clause, https://github.com/highlightjs/highlight.js).
+ * Dark: the Visual Studio 2015 dark style by Nicolas LLOBERA (vs2015.css). Light: the Visual Studio light style (vs.css).
+ * Each style is scoped to the page's dark or light mode, so one file serves both.
+ */
+
+/* Dark mode */
+body:not(.light) pre code.hljs {display: block;
+  overflow-x: auto;
+  padding: 1em}
+body:not(.light) code.hljs {padding: 3px 5px}
+body:not(.light) .hljs {background: #1E1E1E;
+  color: #DCDCDC}
+body:not(.light) .hljs-keyword, body:not(.light) .hljs-literal, body:not(.light) .hljs-symbol, body:not(.light) .hljs-name {color: #569CD6}
+body:not(.light) .hljs-link {color: #569CD6;
+  text-decoration: underline}
+body:not(.light) .hljs-built_in, body:not(.light) .hljs-type {color: #4EC9B0}
+body:not(.light) .hljs-number, body:not(.light) .hljs-class {color: #B8D7A3}
+body:not(.light) .hljs-string, body:not(.light) .hljs-meta .hljs-string {color: #D69D85}
+body:not(.light) .hljs-regexp, body:not(.light) .hljs-template-tag {color: #9A5334}
+body:not(.light) .hljs-subst, body:not(.light) .hljs-function, body:not(.light) .hljs-title, body:not(.light) .hljs-params, body:not(.light) .hljs-formula {color: #DCDCDC}
+body:not(.light) .hljs-comment, body:not(.light) .hljs-quote {color: #57A64A;
+  font-style: italic}
+body:not(.light) .hljs-doctag {color: #608B4E}
+body:not(.light) .hljs-meta, body:not(.light) .hljs-meta .hljs-keyword, body:not(.light) .hljs-tag {color: #9B9B9B}
+body:not(.light) .hljs-variable, body:not(.light) .hljs-template-variable {color: #BD63C5}
+body:not(.light) .hljs-attr, body:not(.light) .hljs-attribute {color: #9CDCFE}
+body:not(.light) .hljs-section {color: gold}
+body:not(.light) .hljs-emphasis {font-style: italic}
+body:not(.light) .hljs-strong {font-weight: bold}
+body:not(.light) .hljs-bullet, body:not(.light) .hljs-selector-tag, body:not(.light) .hljs-selector-id, body:not(.light) .hljs-selector-class, body:not(.light) .hljs-selector-attr, body:not(.light) .hljs-selector-pseudo {color: #D7BA7D}
+body:not(.light) .hljs-addition {background-color: #144212;
+  display: inline-block;
+  width: 100%}
+body:not(.light) .hljs-deletion {background-color: #600;
+  display: inline-block;
+  width: 100%}
+
+/* Light mode */
+body.light pre code.hljs {display: block;
+  overflow-x: auto;
+  padding: 1em}
+body.light code.hljs {padding: 3px 5px}
+body.light .hljs {background: white;
+  color: black}
+body.light .hljs-comment, body.light .hljs-quote, body.light .hljs-variable {color: #008000}
+body.light .hljs-keyword, body.light .hljs-selector-tag, body.light .hljs-built_in, body.light .hljs-name, body.light .hljs-tag {color: #00f}
+body.light .hljs-string, body.light .hljs-title, body.light .hljs-section, body.light .hljs-attribute, body.light .hljs-literal, body.light .hljs-template-tag, body.light .hljs-template-variable, body.light .hljs-type, body.light .hljs-addition {color: #a31515}
+body.light .hljs-deletion, body.light .hljs-selector-attr, body.light .hljs-selector-pseudo, body.light .hljs-meta {color: #2b91af}
+body.light .hljs-doctag {color: #808080}
+body.light .hljs-attr {color: #f00}
+body.light .hljs-symbol, body.light .hljs-bullet, body.light .hljs-link {color: #00b0e8}
+body.light .hljs-emphasis {font-style: italic}
+body.light .hljs-strong {font-weight: bold}

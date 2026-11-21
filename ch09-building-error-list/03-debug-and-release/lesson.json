@@ -1,0 +1,4 @@
+{
+  "title": "Debug and Release configurations",
+  "objective": "Choose the Debug or Release configuration from the toolbar, and see where each build writes its output."
+}

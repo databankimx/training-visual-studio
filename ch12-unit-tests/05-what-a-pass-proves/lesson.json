@@ -1,0 +1,4 @@
+{
+  "title": "What a passing test proves",
+  "objective": "Explain what a green test shows, and why a test with the wrong inputs can hide a bug."
+}

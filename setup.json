@@ -1,0 +1,56 @@
+{
+  "name": "Working With Visual Studio",
+  "folder": "training-visual-studio",
+  "repoUrl": "https://github.com/databankimx/training-visual-studio.git",
+  "branch": "main",
+  "requirePowerShell7": false,
+  "requirements": [
+    {
+      "kind": "vcRuntime",
+      "id": "Microsoft.VCRedist.2015+.x64",
+      "checkFiles": [
+        "%SystemRoot%\\System32\\VCRUNTIME140.dll",
+        "%SystemRoot%\\System32\\MSVCP140.dll"
+      ],
+      "elevated": true
+    },
+    {
+      "kind": "winget",
+      "id": "Git.Git",
+      "check": "git",
+      "paths": [
+        "%ProgramFiles%\\Git\\cmd\\git.exe"
+      ]
+    },
+    {
+      "kind": "winget",
+      "id": "OpenJS.NodeJS.LTS",
+      "check": "node",
+      "minimum": "24",
+      "paths": [
+        "%ProgramFiles%\\nodejs\\node.exe"
+      ]
+    },
+    {
+      "kind": "visualStudio",
+      "id": "Microsoft.VisualStudio.Community",
+      "workload": "Microsoft.VisualStudio.Workload.ManagedDesktop",
+      "override": "--quiet --wait --norestart --add Microsoft.VisualStudio.Workload.ManagedDesktop --includeRecommended"
+    }
+  ],
+  "npm": [
+    {
+      "folder": "lesson-runner",
+      "install": "auto",
+      "test": true
+    }
+  ],
+  "electron": {
+    "folder": "lesson-runner"
+  },
+  "launch": {
+    "ide": "none",
+    "kind": "electron",
+    "folder": "lesson-runner"
+  }
+}

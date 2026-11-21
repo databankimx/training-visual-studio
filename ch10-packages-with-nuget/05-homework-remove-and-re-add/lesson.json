@@ -1,0 +1,4 @@
+{
+  "title": "Homework: remove the package, then add it back at a new version",
+  "objective": "Remove Newtonsoft.Json from Pricing, add 13.0.4 back from the Browse tab, and confirm the PackageReference and the build."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Comparing two commits",
+  "objective": "Select two commits in the history, and compare the files that differ between them."
+}

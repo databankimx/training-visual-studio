@@ -1,0 +1,4 @@
+{
+  "title": "A claim can be wrong",
+  "objective": "Spot a wrong explanation in a chat answer, and show that the code disagrees with it."
+}

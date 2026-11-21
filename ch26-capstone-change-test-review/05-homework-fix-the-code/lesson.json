@@ -1,0 +1,4 @@
+{
+  "title": "Homework: fix the code",
+  "objective": "Fix MinPrice so it returns the smallest price, and confirm every test passes."
+}

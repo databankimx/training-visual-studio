@@ -1,0 +1,4 @@
+{
+  "title": "Find in Files",
+  "objective": "Search the text of every file in the solution with Ctrl+Shift+F, and open a result."
+}

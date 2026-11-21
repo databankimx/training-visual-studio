@@ -1,0 +1,4 @@
+{
+  "title": "Go to Definition",
+  "objective": "Jump from a call to the method that defines it with F12, and return with Ctrl+-."
+}

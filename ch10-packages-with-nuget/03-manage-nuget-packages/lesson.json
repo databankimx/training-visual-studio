@@ -1,0 +1,4 @@
+{
+  "title": "Adding a package with Manage NuGet Packages",
+  "objective": "Use the Browse tab to install Newtonsoft.Json 13.0.3 into the Pricing project, and confirm the PackageReference in Pricing.csproj."
+}

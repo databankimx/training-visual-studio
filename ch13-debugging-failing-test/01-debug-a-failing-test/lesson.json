@@ -1,0 +1,4 @@
+{
+  "title": "Debugging from Test Explorer",
+  "objective": "Start one failing test under the debugger, and read the values at a breakpoint."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Renaming a symbol",
+  "objective": "Rename a method, type, or variable with Ctrl+R, Ctrl+R, and let Visual Studio update every use."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Find All References",
+  "objective": "Find every place a method is used with Shift+F12, and open any result from the list."
+}

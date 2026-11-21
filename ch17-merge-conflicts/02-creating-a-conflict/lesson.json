@@ -1,0 +1,4 @@
+{
+  "title": "Creating a conflict",
+  "objective": "Change the same line on two branches, and merge them to produce a conflict."
+}

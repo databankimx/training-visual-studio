@@ -1,0 +1,4 @@
+{
+  "title": "Code Cleanup",
+  "objective": "Run Code Cleanup with Ctrl+K, Ctrl+E to apply the style and analyzer fixes to a file."
+}

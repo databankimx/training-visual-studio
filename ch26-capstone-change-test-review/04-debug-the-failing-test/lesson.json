@@ -1,0 +1,4 @@
+{
+  "title": "Debug the failing test",
+  "objective": "Use the debugger to find which line returns the wrong value."
+}
