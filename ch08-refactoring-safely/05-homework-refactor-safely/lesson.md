@@ -37,7 +37,7 @@ Press {{Ctrl+Shift+B}} to build the solution. The build should succeed. Compare 
 When you are done, delete Refactor.cs from the Pricing project, so the practice solution is back to its original files.
 
 ~~~spoiler
-Here is the worked solution, after all four steps. The Refactor.cs file should match it line for line, although the name of the local variable may differ if you chose a different one.
+Here is the worked solution, after all four steps. The `Refactor.cs` file should match it line for line, although the name of the local variable may differ if you chose a different one.
 
 ```csharp
 namespace Pricing;

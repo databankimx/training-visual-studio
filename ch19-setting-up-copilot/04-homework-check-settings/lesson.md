@@ -17,5 +17,5 @@ Suggestions are on again, and the Options page matches what you saw in step 1.
 ~~~spoiler
 Automatic suggestions show only when you type, and Ctrl+Space asks for one on demand. Turning off the automatic setting means you choose when Copilot runs, and that can be useful when you want to think through a method yourself.
 
-Remove the test characters you typed in PriceCalculator.cs before you finish, so the file matches the last commit.
+Remove the test characters you typed in `PriceCalculator.cs` before you finish, so the file matches the last commit.
 ~~~

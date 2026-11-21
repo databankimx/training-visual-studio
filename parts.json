@@ -57,7 +57,12 @@
     },
     {
       "title": "Part VII - Putting It Together",
-      "chapters": []
+      "chapters": [
+        "ch25-capstone-change-test-review",
+        "ch26-when-things-go-wrong",
+        "ch27-checklist-and-summary",
+        "ch28-appendix-shortcuts-commands-settings"
+      ]
     }
   ]
 }

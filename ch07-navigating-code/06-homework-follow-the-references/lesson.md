@@ -23,9 +23,9 @@ Answer these three questions about PriceCalculator.MaxPrice:
 When you have finished, compare your answers with the worked solution below.
 
 ~~~spoiler
-1. MaxPrice has 2 references. CodeLens shows 2 references above the declaration, and Find All References lists the same two results.
-2. The two files are PriceReport/Program.cs and Pricing.Tests/PriceCalculatorTests.cs.
-3. The test calls MaxPrice with the values 1.5, 9, and 3, and expects 9 as the answer. Check the Assert line in the test to confirm the expected value.
+1. `MaxPrice` has 2 references. CodeLens shows 2 references above the declaration, and Find All References lists the same two results.
+2. The two files are `PriceReport`/`Program.cs` and `Pricing.Tests`/`PriceCalculatorTests.cs`.
+3. The test calls `MaxPrice` with the values 1.5, 9, and 3, and expects 9 as the answer. Check the Assert line in the test to confirm the expected value.
 
 Going back with {{Ctrl+-}} takes you through each step in the order you visited it, so you can retrace the path without searching again.
 ~~~

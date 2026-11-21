@@ -16,7 +16,7 @@ This exercise has you make two separate changes, and commit only one of them. Th
 Your history has one new commit, and Program.cs is still an unstaged change.
 
 ~~~spoiler
-Only PriceCalculator.cs went into the commit, because it was the only file you staged. The Changes list still shows Program.cs, so you can stage and commit it as a separate commit with its own message.
+Only `PriceCalculator.cs` went into the commit, because it was the only file you staged. The Changes list still shows `Program.cs`, so you can stage and commit it as a separate commit with its own message.
 
 The commit message should describe the change in one line. Document the Average method is a good example, while update files says nothing about what changed. Keeping one idea in each commit makes the history easier to read later, and easier to undo one part of.
 ~~~

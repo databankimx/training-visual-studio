@@ -27,9 +27,9 @@ public void $name$()
 The test passes in Test Explorer, and when you remove it, Git Changes shows no change for the test file.
 
 ~~~spoiler
-If the test does not appear, check that the snippet imported under Visual C# and that the test class is in the Pricing.Tests project. If the placeholders do not highlight, check that the names in the Literal section match the names in the code, with dollar signs around each one.
+If the test does not appear, check that the snippet imported under Visual C# and that the test class is in the `Pricing.Tests` project. If the placeholders do not highlight, check that the names in the Literal section match the names in the code, with dollar signs around each one.
 
 If Code Cleanup changed lines you did not expect, the profile on your computer may differ from the one your team uses. Undo the cleanup, and check the profile before you go on.
 
-The test uses NUnit, so the file must already have the using NUnit.Framework line. Most test files in the practice solution have it.
+The test uses NUnit, so the file must already have the using `NUnit.Framework` line. Most test files in the practice solution have it.
 ~~~

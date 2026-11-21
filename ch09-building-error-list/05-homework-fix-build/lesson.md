@@ -38,7 +38,7 @@ The build should succeed with no errors. Compare your file with the worked solut
 When you are done, delete BuildPractice.cs from the Pricing project, so the practice solution is back to its original files.
 
 ~~~spoiler
-Here is the worked solution, after both fixes. The BuildPractice.cs file should match it line for line.
+Here is the worked solution, after both fixes. The `BuildPractice.cs` file should match it line for line.
 
 ```csharp
 namespace Pricing;

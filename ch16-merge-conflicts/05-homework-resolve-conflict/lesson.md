@@ -27,5 +27,5 @@ Ticking both checkboxes puts two return statements in a row. The first one alway
 
 Either a current or an incoming choice is a correct resolution. What matters is the decision you record in the commit message.
 
-Keep Labels.cs. Chapter 18 uses its history, so do not delete it.
+Keep `Labels.cs`. Chapter 18 uses its history, so do not delete it.
 ~~~

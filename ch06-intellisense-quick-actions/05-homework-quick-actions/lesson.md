@@ -36,7 +36,7 @@ The file has two errors. One is a name that has no using directive. The other as
 Compare your file with the worked solution below. When you are done, delete Homework.cs from the Pricing project, so the practice solution is back to its original files.
 
 ~~~spoiler
-Here is the worked solution, after both Quick Actions. The Homework.cs file should match it line for line.
+Here is the worked solution, after both Quick Actions. The `Homework.cs` file should match it line for line.
 
 ```csharp
 using System.Text;

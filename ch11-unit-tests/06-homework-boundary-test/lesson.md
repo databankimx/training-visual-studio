@@ -36,9 +36,9 @@ A passing test is not enough. Show that this test fails when the shortcut from t
 All six tests pass, with the original Average method in place.
 
 ~~~spoiler
-The new test passes with the current code, because the current Average divides the total by prices.Count. With one price, the total is 5, and 5 divided by 1 is 5.
+The new test passes with the current code, because the current Average divides the total by `prices.Count`. With one price, the total is 5, and 5 divided by 1 is 5.
 
 With the shortcut, the same test returns 2.5 instead of 5, so it fails. The test with two prices still passes, because 6 divided by 2 is 3. That is the lesson: one test with two prices cannot tell the correct method from the shortcut, but a test with one price can.
 
-Part one matters too. The test with 7m could never pass without a bug in the expected value, so it was always going to fail.
+Part one matters too. The test with `7m` could never pass without a bug in the expected value, so it was always going to fail.
 ~~~

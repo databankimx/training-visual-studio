@@ -30,7 +30,7 @@ All the tests in DiscountsTests.cs should pass, and the Locals window should mat
 ~~~spoiler
 Fifteen percent of 40 is 6, and 40 minus 6 is 34. The test expected 33, so the test is wrong, and the code is right.
 
-At the return line, the Locals window shows price as 40, and discount as 6. The method returns 34. Change the test to expect 34m, and run all the tests.
+At the return line, the Locals window shows price as 40, and discount as 6. The method returns 34. Change the test to expect `34m`, and run all the tests.
 
-When you finish, delete Discounts.cs and DiscountsTests.cs, unless your instructor asks you to keep them.
+When you finish, delete `Discounts.cs` and `DiscountsTests.cs`, unless your instructor asks you to keep them.
 ~~~

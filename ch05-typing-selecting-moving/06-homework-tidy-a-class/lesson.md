@@ -40,7 +40,7 @@ Press {{Ctrl+Shift+B}} to build the solution. The build should succeed with no w
 When you are done, delete Starter.cs from the Pricing project, so the practice solution is back to its original files.
 
 ~~~spoiler
-Here is the worked solution, after all five steps. The Starter.cs file should match it line for line.
+Here is the worked solution, after all five steps. The `Starter.cs` file should match it line for line.
 
 ```csharp
 using System;
