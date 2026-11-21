@@ -20,7 +20,7 @@
       ]
     },
     {
-      "title": "Part III - Building, Running, and Testing",
+      "title": "Part III - Build, Run, and Test",
       "chapters": [
         "ch09-building-error-list",
         "ch10-running-debugging",
@@ -41,7 +41,10 @@
     },
     {
       "title": "Part V - Copilot and Extensions",
-      "chapters": []
+      "chapters": [
+        "ch19-setting-up-copilot",
+        "ch20-suggestions-and-chat"
+      ]
     },
     {
       "title": "Part VI - Working Faster",
